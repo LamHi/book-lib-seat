@@ -12,7 +12,7 @@ $mail->Username='booklibseat@gmail.com';
 $mail->Password='Bls114514';
 
 $mail->setFrom('confirm@booklibseat.org','Book Lib Seat');
-$mail->addCC('1155109544@link.cuhk.edu.hk');
+$mail->addCC('1155109349@link.cuhk.edu.hk');
 
 $mail->isHTML(true);
 $mail->Subject='Book Lib Seat Confirmation';
